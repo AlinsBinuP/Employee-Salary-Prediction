@@ -40,8 +40,6 @@ If you're running on Google Colab, use `pyngrok` to tunnel your Streamlit app.
 
 ## 👤 Author
 - **Alins Binu**  
-- Amal Jyothi College of Engineering, Department of Computer Science and Engineering
-
 ---
 
 > 📬 Feel free to fork or star the repo if you found it helpful!
